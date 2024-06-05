@@ -1,13 +1,13 @@
 # My Blog
 
-Welcome to My Blog! This is a simple blog post api server where you can read, create, update, and delete blog posts.
+Welcome to My Blog! This is a simple blog post API server where you can read, create, update, and delete blog posts.
 
 ## Environment Variables
 
 To run this project, you will need to add the following environment variables to your `.env.local` file:
 
-- **DATABASE_URL**: The URL of the Mysql database link.
-- **JWT_SECRET**: Secret Key for JWT Token.
+- **`DATABASE_URL`**: The URL of the Mysql database link.
+- **`JWT_SECRET`**: Secret Key for JWT Token.
 
 ## Features
 
